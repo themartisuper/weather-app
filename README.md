@@ -1,4 +1,3 @@
-```markdown
 # 🎨 Weather App
 
 A simple and responsive **weather application** built with **HTML, CSS, and JavaScript**.  
@@ -58,7 +57,7 @@ weather-app/
 ├── script.js
 └── index.html
 
-````
+```
 
 ---
 
@@ -67,7 +66,7 @@ weather-app/
 1. Clone the repository:
    ```bash
    git clone https://github.com/themartisuper/weather-app.git
-````
+   ```
 
 2. Open the project folder:
 
@@ -143,5 +142,3 @@ This project helped me practice:
 * Responsive design using CSS flex and gradients
 
 It’s a lightweight, beginner-friendly project with potential to expand into a more advanced weather dashboard.
-
-```
