@@ -127,7 +127,7 @@ The app will alert if the API key is missing or invalid.
 
 ## 👩‍💻 Author
 
-**[Your Name]**
+**Nur A.**
 [GitHub Profile](https://github.com/themartisuper)
 
 ---
